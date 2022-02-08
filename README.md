@@ -3,4 +3,5 @@ diff練習用 4th
 ４回目
 mergetool conflict
 feature
-rebase用のもの
+mian rebase用のもの (on conflict)
+
