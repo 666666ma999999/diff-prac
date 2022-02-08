@@ -1,2 +1,3 @@
 新規ファイル変更
 rebase よう　新規
+pull時のrebase用。
